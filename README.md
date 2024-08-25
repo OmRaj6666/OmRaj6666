@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
