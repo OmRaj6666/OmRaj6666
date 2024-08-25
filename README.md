@@ -1,7 +1,7 @@
-h1 align="center">Hi 👋, I'm Om Raj</h1>
+Hi 👋, I'm Om Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Omraj6666@gmail.com  </h3>
 <p align="left">
 </p>
 
