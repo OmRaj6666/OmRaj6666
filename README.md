@@ -31,7 +31,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
+        <a href="https://github.com/OmRaj6666/" target="_blank" title="View my repos">
           <img src="Assets/github-original.svg" alt="github" width="40" height="40"/>
         </a>
       </td>
