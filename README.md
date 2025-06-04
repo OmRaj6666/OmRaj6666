@@ -4,7 +4,7 @@
 ## Welcome to My GitHub Profile
 
 - 🎓 I’m currently working on the repos for [Grow-with-Open-Source](https://github.com/Grow-with-Open-Source "visit Grow-with-Open-Source Organization") Organization.
-- 🏫 I'm currently studying as 4th year CSE student at [VIT BHOPAL UNIVERSITY ](https://vitbhopal.ac.in// "visit my college website").
+- 🏫 I'm currently studying as 3rd year CSE student at [VIT BHOPAL UNIVERSITY ](https://vitbhopal.ac.in// "visit my college website").
 - 🤩 I'm down into projects and collaborations.
 - 📋 Currently main maintainer of [Grow-with-Open-Source](https://github.com/Grow-with-Open-Source "visit Grow-with-Open-Source Organization") Organization.
 
