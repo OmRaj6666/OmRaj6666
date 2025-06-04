@@ -85,27 +85,27 @@
   <table>
     <tr>
       <td>
-          <a href="https://www.linkedin.com/in/shamith-n-02b535226/" target="_blank" title="Visit my Linkedin">
+          <a href="https://www.linkedin.com/in/om-raj-vit/" target="_blank" title="Visit my Linkedin">
             <img src="Assets/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
           </a>
       </td>
       <td>
-          <a href="https://twitter.com/Shamith29188225" target="_blank" title="Visit my twitter">
+          <a href="https:" target="_blank" title="Visit my twitter">
             <img src="Assets/twitter-original.svg" alt="twitter" width="40" height="40"/>
           </a>
       </td>
       <td>
-         <a href="https://discord.gg/xrSCjwhR6R" target="_blank" title="Join My Discord Channel">
+         <a href="https:" target="_blank" title="Join My Discord Channel">
           <img src="Assets/discordapp-tile.svg" alt="discord" width="40" height="40" />
          </a>
       </td>
       <td>
-          <a href="https://www.instagram.com/shamith_watch_dogs/" target="_blank" title="Visit my Instagram">
+          <a href="https:" target="_blank" title="Visit my Instagram">
             <img src="Assets/logo.svg" alt="instagram" width="40" height="40"/>
           </a>
       </td>
       <td>
-          <a href="https://www.facebook.com/shamith.nakka" target="_blank" title="Visit my facebook">
+          <a href="https:" target="_blank" title="Visit my facebook">
             <img src="Assets/facebook-original.svg" alt="facebook" width="40" height="40"/>
           </a>
       </td>
