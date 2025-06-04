@@ -16,12 +16,12 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
+        <a href="" target="_blank" title="View my C Programming repo(s)"> 
           <img src="Assets/c-original.svg" alt="c" width="40" height="40"/> 
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
+        <a href="" target="_blank" title="View my C++ Programming repo(s)"> 
           <img src="Assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
         </a>
       </td>
@@ -36,27 +36,27 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
+        <a href=""https://github.com/OmRaj6666/" target="_blank" title="View my repos">
           <img src="Assets/markdown-original.svg" alt="markdown" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
+        <a href="" target="_blank" title="View my Shell Scripting repo(s)">
           <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
+        <a href="" target="_blank" title="View my Java repo(s)">
           <img src="Assets/java-original.svg" alt="java" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
+        <a href="" target="_blank" title="View my R programming repo(s)">
           <img src="Assets/r-original.svg" alt="r" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
+        <a href="" target="_blank" title="View my R programming repo(s)">
           <img src="Assets/rstudio-original.svg" alt="r-studio" width="40" height="40"/>
         </a>
       </td>
