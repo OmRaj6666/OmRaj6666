@@ -113,9 +113,7 @@
 </div>
 
 
-## 🐱‍💻 Hacktober badges:
 
-[ ![@shamith_watchdogs's Holopin board](https://holopin.me/shamith_watchdogs) ](https://holopin.io/@shamith_watchdogs) 
 <!-- Snake Game -->
 <div align ="center">
   <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
