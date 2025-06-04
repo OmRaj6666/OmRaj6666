@@ -26,7 +26,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
+        <a href="https://github.com/OmRaj6666/" target="_blank" title="View my repos">
           <img src="Assets/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
       </td>
