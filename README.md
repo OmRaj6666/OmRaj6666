@@ -1,4 +1,4 @@
-# Hi there <img src="Assets/Hi.gif" width="29">, I'm OM RAJ <img src="https://komarev.com/ghpvc/?username=&color=brightgreen" alt="" align="right" />
+# Hi there <img src="Assets/Hi.gif" width="29">, I'm OM RAJ <img src="![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)" alt="" align="right" />
 
 
 ## Welcome to My GitHub Profile
