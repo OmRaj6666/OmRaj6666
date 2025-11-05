@@ -102,7 +102,7 @@
          </a>
       </td>
       <td>
-          <a href="https:www.instagram.com/omraj_6245/?hl=en" target="_blank" title="Visit my Instagram">
+          <a href="https://www.instagram.com/omraj_6245/?hl=en" target="_blank" title="Visit my Instagram">
             <img src="Assets/logo.svg" alt="instagram" width="40" height="40"/>
           </a>
       </td>
