@@ -92,7 +92,7 @@
           </a>
       </td>
       <td>
-          <a href="https:https://x.com/_Om_Raj__" target="_blank" title="Visit my twitter">
+          <a href="https://x.com/_Om_Raj__" target="_blank" title="Visit my twitter">
             <img src="Assets/twitter-original.svg" alt="twitter" width="40" height="40"/>
           </a>
       </td>
