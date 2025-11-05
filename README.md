@@ -97,7 +97,7 @@
           </a>
       </td>
       <td>
-         <a href="https:" target="_blank" title="Join My Discord Channel">
+         <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me" target="_blank" title="Join My Discord Channel">
           <img src="Assets/discordapp-tile.svg" alt="discord" width="40" height="40" />
          </a>
       </td>
